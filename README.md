@@ -23,6 +23,11 @@ npm start
 
 ## Higher density
 
-Beware this could take a long time to load and be very laggy (or even unusable) on mobile devices.
+**Beware** this could take a **long time to load** and be **very laggy** (or even unusable) on mobile devices.
 
 ![Denser cube](./assets/dense-cube.png)
+
+- Denser: https://denser--rgb-cube.netlify.app/
+- Denser x2: https://denser2--rgb-cube.netlify.app/
+- Densest: https://densest--rgb-cube.netlify.app/
+
