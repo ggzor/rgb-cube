@@ -9,7 +9,7 @@ import { useRef } from "react";
 import "./index.css";
 import { Object3D } from "three";
 
-const STEP_BETWEEN_CUBES = 3;
+const STEP_BETWEEN_CUBES = 2;
 
 function App() {
   const cubes = useMemo(() => generateCubes(STEP_BETWEEN_CUBES), []);
